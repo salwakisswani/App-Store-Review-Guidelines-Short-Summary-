@@ -1,6 +1,4 @@
-#Short-Summary
-
-Human Interface Guidelines
+# Short-Summary Human Interface Guidelines
 
 
 iOS is different from other platforms in three ways; Clarity, Deference, and Depth. 
