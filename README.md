@@ -1,5 +1,5 @@
-# Short-Summary
-App Store Review Guidelines
+# Short-Summary App Store Review Guidelines
+
 
 Apple seeks to create a new and safe app community where it follows the regulations of 5 topics; 
 Safety, Performance, Business, Design, and Legal. 
